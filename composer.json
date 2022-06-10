@@ -1,0 +1,17 @@
+{
+    "name": "vaedly/hdg-general-package",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vaedly\\HdgGeneralPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zjs",
+            "email": "dlyzjs@163.com"
+        }
+    ]
+}
